@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/professional-react-portfolio/static/css/main.66a51326.css",
+    "main.js": "/professional-react-portfolio/static/js/main.995e794f.js",
+    "static/media/videoBg.mp4": "/professional-react-portfolio/static/media/videoBg.e537153d881904f5436a.mp4",
+    "static/media/lyric-translator.png": "/professional-react-portfolio/static/media/lyric-translator.356486488ad22da63915.png",
+    "static/media/nictactoe.png": "/professional-react-portfolio/static/media/nictactoe.d6db0f22e0dbb61710b7.png",
+    "static/media/resume.png": "/professional-react-portfolio/static/media/resume.eea1c597d6b5d923fbbc.png",
+    "static/media/dayplanner.png": "/professional-react-portfolio/static/media/dayplanner.861a2bc6858259ffb5d2.png",
+    "static/media/password.png": "/professional-react-portfolio/static/media/password.156b7a8b11adfb8c4bc4.png",
+    "static/media/quiz.png": "/professional-react-portfolio/static/media/quiz.60aa1141c4833aa4e7c7.png",
+    "static/media/JATE.png": "/professional-react-portfolio/static/media/JATE.8e769ce61cc1a96425ea.png",
+    "index.html": "/professional-react-portfolio/index.html",
+    "main.66a51326.css.map": "/professional-react-portfolio/static/css/main.66a51326.css.map",
+    "main.995e794f.js.map": "/professional-react-portfolio/static/js/main.995e794f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66a51326.css",
+    "static/js/main.995e794f.js"
+  ]
+}
