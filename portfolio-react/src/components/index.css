@@ -1,0 +1,166 @@
+/* GLOBAL */
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family:'Times New Roman', Times, serif
+}
+
+video {
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+}
+
+.main {
+    width: 100%;
+    height: 100vh;
+    top: 100px;
+}
+
+.nav-item :hover {
+    color: black;
+}
+
+
+
+/* ABOUT ME */
+
+
+
+.content {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 90px;
+}
+
+.overlay {
+    position: absolute;
+    /* top: 0; */
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,.5);
+    object-fit: cover;
+}
+
+.fade-in {
+    transition: opacity 1s ease;
+}
+
+.fade-out {
+    opacity: 0;
+    transition: opacity 1s ease;
+}
+
+#about-body {
+    font-size: 30px;
+    text-align: center;
+    width: 80%;
+}
+
+/* CONTACT ME */
+
+.form {
+    margin-top: 20px;
+    width: 600px;
+    margin-left: 650px;
+    font-family: 'Courier New', Courier, monospace;
+    position: absolute;
+    top: 250px;
+  }
+  
+  .form input {
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 100%;
+  }
+  
+  textarea {
+    margin-top: 10px;
+    height: 100px;
+    width: 600px;
+  }
+  
+  .contact-header {
+    margin-left: 830px;
+    top: 50px;
+    font-size: 75px;
+    position: absolute;
+    color: white
+  }
+
+  .success {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 80px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 90px;
+  }
+  
+/* PORTFOLIO */
+
+#header {
+    color: black;
+}
+
+a {
+    margin-right: 5px;
+}
+
+.container {
+    position: absolute;
+    top: 50px;
+    left: 300px;
+}
+
+
+/* RESUME */
+  
+.resume-header {
+    position: absolute;
+    top: -370px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    height: 70%;
+    color: black;
+}
+
+.resume-img {
+    position: absolute;
+    top: 170px;
+    height: 80%;
+    margin-left: 660px;
+}
+
+.resume-body {
+    position: absolute;
+    top: 130px;
+    margin-left: 663px;
+    color: white;
+}
+
+/* FOOTER */
+
+.content-footer {
+    font-size: 30px;
+    display: flex;
+    position: absolute;
+    bottom: -50px;
+}
